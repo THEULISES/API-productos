@@ -2,7 +2,7 @@
   "name": "api-productos",
   "version": "1.0.0",
   "description": "API de productos con autenticación JWT para prácticas en clase",
-  "main": "api_productos_con_auth_express_jwt.js",
+  "main": "api_producto.js",
   "scripts": {
     "start": "node api_productos.js"
   },
